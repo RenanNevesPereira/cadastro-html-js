@@ -16,7 +16,7 @@ Este é um projeto simples de **cadastro de clientes** desenvolvido com **HTML**
 
 ## 📸 Captura de Tela
 
-![screenshot](https://via.placeholder.com/800x400?text=Exemplo+Cadastro+de+Clientes)
+![screenshot](https://github.com/user-attachments/assets/81aa161b-8d58-4715-9e49-4a28b4dca44b)
 
 ## 🛠️ Tecnologias Utilizadas
 
